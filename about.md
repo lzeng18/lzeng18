@@ -9,7 +9,7 @@ I'm Linda, a data scientist in training here in New York City. I've been working
 
 My hobbies include jewelry making, running, and reading Stephen King novels late into the night. 
 
-I am open to career opportunities as a data scientist, data analyst, and business analyst. I would love to hear from you at lindazeng@berkeley.edu.
+I am open to career opportunities as a data scientist, data analyst, and business analyst. I would love to hear from you at [lindazeng@berkeley.edu](mailto:lindazeng@berkeley.edu).
 
 #### Education 
 
