@@ -14,10 +14,15 @@ I'm Linda, a data scientist in training, here in New York City. I've been workin
 
 ### Tech Stack
 SQL (MySQL, MS SQL Server)
+
 Java
+
 Python
+
 R
+
 PHP
+
 Tableau
 
 ### Contact me
