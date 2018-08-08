@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Linda Zeng
+name: "Linda Zeng"
 
 # Short bio or description (displayed in the header)
-description: Backend development and data management student in New York City
+description: "Backend development and data management student in New York City"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/lzeng18.png
@@ -17,9 +17,9 @@ avatar: https://github.com/lzeng18.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email:lindazeng@berkeley.edu
-  github: https://github.com/lzeng18/lzeng18.github.io
-  linkedin:https://www.linkedin.com/in/linda-zeng
+  email: "lindazeng@berkeley.edu"
+  github: "https://github.com/lzeng18/lzeng18.github.io"
+  linkedin: "https://www.linkedin.com/in/linda-zeng"
   rss:  # just type anything here for a working RSS icon
   # stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   # youtube: # channel/<your_long_string> or user/<user-name>
@@ -35,7 +35,7 @@ footer-links:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:http://www.iamlindazeng.com
+url: "http://www.iamlindazeng.com"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
