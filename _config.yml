@@ -17,9 +17,9 @@ avatar: https://github.com/lzeng18.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: "lindazeng@berkeley.edu"
+  email: lindazeng@berkeley.edu
   github: "lzeng18"
-  linkedin: "/linda-zeng"
+  linkedin: "linda-zeng"
   rss: " " # just type anything here for a working RSS icon
   # stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   # youtube: # channel/<your_long_string> or user/<user-name>
