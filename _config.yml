@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: "Linda Zeng"
+### name: "Linda Zeng"
 
 # Short bio or description (displayed in the header)
-description: "Backend development and data management student in New York City"
+#### description: "Data Science Projects"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/lzeng18.png
