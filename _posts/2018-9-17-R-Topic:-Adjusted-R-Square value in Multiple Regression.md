@@ -1,4 +1,4 @@
-### Predictive Analysis - Multiple Regression and using the Adjusted R-Square Value
+# Predictive Analysis - Multiple Regression and using the Adjusted R-Square Value
 
 When we want to predict the outcome of a variable based on let's say, 2 other variables, we cannot run correlation ceofficient. Because that only explains correlation between 2 variables. 
 
