@@ -1,6 +1,8 @@
-## Multiple Regression: how 2 (or more) explanatory variables explain 1 dependent (target) variable.
+### Predictive Analysis - Multiple Regression and using the Adjusted R-Square Value
 
 When we want to predict the outcome of a variable based on let's say, 2 other variables, we cannot run correlation ceofficient. Because that only explains correlation between 2 variables. 
+
+* _Multiple Regression: how 2 (or more) explanatory variables explain 1 dependent (target) variable._
 
 When considering whether or not to use 2 or more explananatory variables as predictors, use the *adjusted* R-square value as your guide. This value tells you whether it is worth to add a new variable. 
 
